@@ -1,0 +1,6 @@
+{
+  "name": "Villa Bella Eventos - Salão, Espaço Gourmet & Piscina",
+  "description": "Espaço completo para festas com salão climatizado, área gourmet, piscina com deck, serviços de buffet completo para 50, 100 e 200 convidados, visita virtual guiada e reserva online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
